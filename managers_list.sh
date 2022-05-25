@@ -1,14 +1,11 @@
-        List:
+	iList:
         tmng66gt
 	tundeabiodun2708
 	backendersrvsl
 	gilsiu
 	duuhus23
 	wuoloo
-	teshos12
-<<<<<<< HEAD
+	teshsos12
 	oba
-=======
 	javes
 	taiwo
->>>>>>> d7c4dea (updtated list)
